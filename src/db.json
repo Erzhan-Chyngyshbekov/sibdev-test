@@ -1,0 +1,35 @@
+{
+    "users": [
+        {
+          "id": 1,
+          "name": "admin",
+          "password": "admin"
+        }
+    ],
+    "favorites": [
+        {
+          "id": 1,
+          "user": "admin",
+          "request": "naruto",
+          "name": "",
+          "order": "relevance",
+          "maxResults": 15
+        },
+        {
+          "id": 2,
+          "user": "admin",
+          "request": "minato",
+          "name": "",
+          "order": "relevance",
+          "maxResults": 20
+        },
+        {
+          "user": "admin",
+          "request": "itachi",
+          "name": "",
+          "order": "viewCount",
+          "maxResults": 26,
+          "id": 3
+        }
+    ]
+}

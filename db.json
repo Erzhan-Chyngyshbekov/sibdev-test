@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "admin",
+      "password": "admin"
+    }
+  ],
+  "favorites": [
+    {
+      "id": 1,
+      "user": "admin",
+      "request": "naruto",
+      "name": "",
+      "order": "relevance",
+      "maxResults": 15
+    },
+    {
+      "id": 2,
+      "user": "admin",
+      "request": "minato",
+      "name": "",
+      "order": "relevance",
+      "maxResults": 20
+    },
+    {
+      "user": "admin",
+      "request": "maito  dai",
+      "name": "",
+      "order": "videoCount",
+      "maxResults": 15,
+      "id": 4
+    },
+    {
+      "user": "admin",
+      "request": "sakura",
+      "name": "",
+      "order": "relevance",
+      "maxResults": "12",
+      "id": 5
+    },
+    {
+      "user": "admin",
+      "request": "shikamaru",
+      "name": "",
+      "order": "videoCount",
+      "maxResults": "29",
+      "id": 6
+    },
+    {
+      "user": "admin",
+      "request": "minato namikadze",
+      "name": "",
+      "order": "relevance",
+      "maxResults": "22",
+      "id": 7
+    }
+  ]
+}
